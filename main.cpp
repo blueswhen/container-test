@@ -1,4 +1,5 @@
 // copyright with blueswhen
+// MIT
 
 #include <vector>
 #include <sys/time.h>
